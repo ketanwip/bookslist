@@ -1,0 +1,275 @@
+[
+  {
+    "Ingredient_ID": 1,
+    "Ingredient_Name": "Azodicarbonamide",
+    "Banned_Countries": ["European Union", "Australia", "Singapore"],
+    "Safety_Risks": ["Respiratory issues", "allergies"],
+    "Notes": "Used as a flour bleaching agent and dough conditioner"
+  },
+  {
+    "Ingredient_ID": 2,
+    "Ingredient_Name": "Brominated Vegetable Oil (BVO)",
+    "Banned_Countries": ["European Union", "Japan"],
+    "Safety_Risks": ["Potential endocrine disruption", "neurological effects"],
+    "Notes": "Used as an emulsifier in citrus-flavored soft drinks"
+  },
+  {
+    "Ingredient_ID": 3,
+    "Ingredient_Name": "Potassium Bromate",
+    "Banned_Countries": ["European Union", "Canada", "China"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Used as a flour improver in bread products"
+  },
+  {
+    "Ingredient_ID": 4,
+    "Ingredient_Name": "Olestra (Olean)",
+    "Banned_Countries": ["European Union", "Canada"],
+    "Safety_Risks": ["Gastrointestinal issues", "nutrient malabsorption"],
+    "Notes": "Fat substitute used in low-fat and no-fat snacks"
+  },
+  {
+    "Ingredient_ID": 5,
+    "Ingredient_Name": "Butylated Hydroxyanisole (BHA)",
+    "Banned_Countries": ["European Union", "Japan"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Antioxidant in cereals, potato chips, chewing gum"
+  },
+  {
+    "Ingredient_ID": 6,
+    "Ingredient_Name": "Butylated Hydroxytoluene (BHT)",
+    "Banned_Countries": ["European Union", "Japan"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Antioxidant in cereals, potato chips, chewing gum"
+  },
+  {
+    "Ingredient_ID": 7,
+    "Ingredient_Name": "Recombinant Bovine Growth Hormone (rBGH)",
+    "Banned_Countries": ["European Union", "Canada", "Australia", "New Zealand", "Japan"],
+    "Safety_Risks": ["Potential carcinogen", "increased antibiotic resistance"],
+    "Notes": "Hormone used to increase milk production in cows"
+  },
+  {
+    "Ingredient_ID": 8,
+    "Ingredient_Name": "Propyl Gallate",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Potential endocrine disruption"],
+    "Notes": "Antioxidant used in processed foods, cosmetics, and pharmaceuticals"
+  },
+  {
+    "Ingredient_ID": 9,
+    "Ingredient_Name": "Sodium Nitrite",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Preservative and color fixative in cured meats"
+  },
+  {
+    "Ingredient_ID": 10,
+    "Ingredient_Name": "Tartrazine (Yellow 5)",
+    "Banned_Countries": ["Norway", "Austria"],
+    "Safety_Risks": ["Hyperactivity in children", "allergies"],
+    "Notes": "Synthetic food colorant used in candies, soft drinks, and other processed foods"
+  },
+{
+    "Ingredient_ID": 11,
+    "Ingredient_Name": "Ponceau 4R (Red 4)",
+    "Banned_Countries": ["Norway", "United States (banned in 2010)"],
+    "Safety_Risks": ["Hyperactivity in children", "allergies"],
+    "Notes": "Synthetic food colorant used in candies, soft drinks, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 12,
+    "Ingredient_Name": "Quinoline Yellow",
+    "Banned_Countries": ["Australia", "Norway", "United States"],
+    "Safety_Risks": ["Hyperactivity in children", "allergies"],
+    "Notes": "Synthetic food colorant used in candies, soft drinks, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 13,
+    "Ingredient_Name": "Caramel Coloring IV (E150d)",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Coloring agent used in soft drinks, sauces, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 14,
+    "Ingredient_Name": "Carrageenan",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Gastrointestinal inflammation", "cancer"],
+    "Notes": "Thickening and stabilizing agent used in dairy products and processed foods"
+  },
+  {
+    "Ingredient_ID": 15,
+    "Ingredient_Name": "Dimethylpolysiloxane",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Anti-foaming agent used in frying oils and processed foods"
+  },
+  {
+    "Ingredient_ID": 16,
+    "Ingredient_Name": "Sodium Aluminum Sulfate",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Neurological damage"],
+    "Notes": "Acidity regulator used in baked goods and processed foods"
+  },
+  {
+    "Ingredient_ID": 17,
+    "Ingredient_Name": "Diphenylamine",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Used to prevent browning of apples and other fruits during storage"
+  },
+  {
+    "Ingredient_ID": 18,
+    "Ingredient_Name": "Azorubine (Carmoisine)",
+    "Banned_Countries": ["United States", "Norway", "Austria", "Finland"],
+    "Safety_Risks": ["Hyperactivity in children", "allergies"],
+    "Notes": "Synthetic food colorant used in candies, soft drinks, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 19,
+    "Ingredient_Name": "Sodium Tripolyphosphate",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Kidney damage"],
+    "Notes": "Preservative used in processed seafood and meats"
+  },
+  {
+    "Ingredient_ID": 20,
+    "Ingredient_Name": "Sodium Ferrocyanide",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Anti-caking agent used in table salt and other processed foods"
+  },
+  {
+    "Ingredient_ID": 21,
+    "Ingredient_Name": "Titanium Dioxide",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Coloring agent used in candies, pastries, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 22,
+    "Ingredient_Name": "Potassium Bromate",
+    "Banned_Countries": ["European Union", "Canada", "United Kingdom", "Brazil", "China"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Flour improver used in bread and other baked goods"
+  },
+  {
+    "Ingredient_ID": 23,
+    "Ingredient_Name": "Azodicarbonamide",
+    "Banned_Countries": ["European Union", "Australia", "United Kingdom"],
+    "Safety_Risks": ["Respiratory issues", "Potential carcinogen"],
+    "Notes": "Dough conditioner and bleaching agent used in bread and other baked goods"
+  },
+  {
+    "Ingredient_ID": 24,
+    "Ingredient_Name": "Brominated Vegetable Oil",
+    "Banned_Countries": ["European Union", "Canada", "United Kingdom", "India", "Brazil"],
+    "Safety_Risks": ["Thyroid disruption", "Potential carcinogen"],
+    "Notes": "Emulsifier and stabilizer used in soft drinks and sports beverages"
+  },
+  {
+    "Ingredient_ID": 25,
+    "Ingredient_Name": "Butylated Hydroxyanisole (BHA)",
+    "Banned_Countries": ["European Union", "Japan"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Preservative used in cereals, chewing gum, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 26,
+    "Ingredient_Name": "Butylated Hydroxytoluene (BHT)",
+    "Banned_Countries": ["European Union", "Japan", "Australia"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Preservative used in cereals, chewing gum, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 27,
+    "Ingredient_Name": "Propyl Gallate",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Allergies", "Potential carcinogen"],
+    "Notes": "Preservative used in vegetable oils, meat products, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 28,
+    "Ingredient_Name": "Tert-Butylhydroquinone (TBHQ)",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Nausea", "Vomiting", "Potential carcinogen"],
+    "Notes": "Preservative used in vegetable oils, snack foods, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 29,
+    "Ingredient_Name": "Phosphates",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Cardiovascular disease", "Kidney damage"],
+    "Notes": "Preservative used in processed meats, cheese, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 30,
+    "Ingredient_Name": "Disodium 5'-ribonucleotides (E635)",
+    "Banned_Countries": ["Australia", "New Zealand"],
+    "Safety_Risks": ["Allergies", "Asthma"],
+    "Notes": "Flavor enhancer used in soups, snacks, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 31,
+    "Ingredient_Name": "Myristicin",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Narcotic-like effects"],
+    "Notes": "Found in nutmeg and used as a flavoring agent in food and beverages"
+  },
+  {
+    "Ingredient_ID": 32,
+    "Ingredient_Name": "Ethoxyquin",
+    "Banned_Countries": ["European Union", "Australia"],
+    "Safety_Risks": ["Potential carcinogen"],
+    "Notes": "Preservative used in animal feed and pet food"
+  },
+  {
+    "Ingredient_ID": 33,
+    "Ingredient_Name": "Glycerol Ester of Wood Rosin",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Allergies", "Asthma"],
+    "Notes": "Emulsifier and stabilizer used in citrus-flavored beverages"
+  },
+  {
+    "Ingredient_ID": 34,
+    "Ingredient_Name": "Glyceryl Monostearate",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Allergies"],
+    "Notes": "Emulsifier used in baked goods, ice cream, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 35,
+    "Ingredient_Name": "Guar Gum",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Choking hazard"],
+    "Notes": "Thickening agent used in ice cream, salad dressings, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 36,
+    "Ingredient_Name": "Polysorbate 80",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Allergies"],
+    "Notes": "Emulsifier used in ice cream, salad dressings, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 37,
+    "Ingredient_Name": "Sodium Aluminum Phosphate",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Neurological disorders"],
+    "Notes": "Leavening agent used in baked goods and other processed foods"
+  },
+  {
+    "Ingredient_ID": 38,
+    "Ingredient_Name": "Sodium Carboxymethylcellulose",
+    "Banned_Countries": ["European Union (restricted)"],
+    "Safety_Risks": ["Allergies"],
+    "Notes": "Thickening agent used in salad dressings, ice cream, and other processed foods"
+  },
+  {
+    "Ingredient_ID": 39,
+    "Ingredient_Name": "Sodium Metabisulfite",
+    "Banned_Countries": ["European Union"],
+    "Safety_Risks": ["Allergies", "Asthma"],
+    "Notes": "Preservative used in wine, beer, and other processed foods"
+  }
+  ]
